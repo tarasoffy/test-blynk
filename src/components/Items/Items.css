@@ -1,0 +1,24 @@
+.items{
+    min-width: 500px;
+    max-width: 1000px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.items h1 {
+    color: gray;
+    font-size: 2.5rem;
+}
+
+
+.list-group {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+

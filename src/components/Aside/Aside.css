@@ -1,0 +1,27 @@
+.aside {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    height: 100%;
+    max-width: 250px;
+    margin-left: 15px;
+    width: 100%;
+    background-color: #2b2f3e;
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h2{
+    color: white;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.title p {
+    margin-top: 8px;
+    color: #5b5d63;
+    font-size: 16px;
+}
